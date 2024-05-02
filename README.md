@@ -1,11 +1,10 @@
-# Scan Me - A QR & Barcode Scanner App
+# Dash Scan
+A QR & Barcode Scanner App
 
+![Dash Scan](https://muhammadsajedulislam.com/wp-content/uploads/2024/04/Purple-And-White-Modern-Mobile-App-Promotion-Instagram-Post-12.png)
 
-## Overview
-
-Scan Me is a versatile mobile application designed to effortlessly scan QR codes and barcodes. This project focuses on providing a user-friendly interface using Provider state management, integrating a splash screen, onboarding screens, navigation menu, Lottie animations, and QR/barcode scanning functionality.
-
-![Purple And White Modern Mobile App Promotion Instagram Post](https://github.com/elort/dashscan/assets/137734510/0461a961-8d12-418d-bc5d-3ff6c92ebda4)
+Dash Scan is a versatile mobile application designed to effortlessly scan QR codes and barcodes. 
+This project focuses on providing a user-friendly interface using Provider state management, integrating a splash screen, onboarding screens, navigation menu, Lottie animations, and QR/barcode scanning functionality.
 
 ## Features
 
